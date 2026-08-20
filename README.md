@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Suvin T M</h1>
 <h3 align="center">
-  Full-Stack Developer | MERN Stack | Java Developer | ML Enthusiast
+  Full-Stack Developer | MERN Stack | Java Developer | ML Enthusiast | AI
 </h3>
 
 ---
