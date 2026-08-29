@@ -52,7 +52,7 @@
 
 ## 📊 GitHub Analytics
 
-### 🔥 GitHub Streak
+### 🔥 GitHub Streak..
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=suvintm&theme=shadow-green&hide_border=false" />
 </p>
